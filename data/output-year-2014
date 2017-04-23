@@ -1,0 +1,14 @@
+
+user: mk
+2014 year:
+  - ratings xx
+    - positive xx%
+      - top artists:
+        - artist1 (xx% positive ratings)
+        - artist2 (...)
+        - ...
+      - top tracks
+        - track1 (...)
+        ...
+    - save xx%
+    - trash xx%
