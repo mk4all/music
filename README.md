@@ -25,3 +25,5 @@ Based on users ratings we will aggregate them to years scale and build
 a social net with recommendations. The main thing is to build fair
 system, that fights the spam and promotions, based on filtering, honor
 and machine learning advisers.
+Any rating appears from past is checked by moderator and supervisor.
+Supervisor is a moderator of moderators.
