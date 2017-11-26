@@ -27,3 +27,14 @@ system, that fights the spam and promotions, based on filtering, honor
 and machine learning advisers.
 Any rating appears from past is checked by moderator and supervisor.
 Supervisor is a moderator of moderators.
+
+Honor level can be
+0 level: from -infinity to -1
+1 level: from 0 to 9
+2 level: from 10 to 24 (+ 10 * 1.5 points)
+3 level: from 25 to 47 (+ 15 * 1.5 points = 23 points)
+4 level: and so on (prev level * 1.5 points)
+and also creator level for the profile of creator.
+Creator can change everything accept history. Messages from excluded
+users can be reduced to zero, users names also if they break the rules.
+
